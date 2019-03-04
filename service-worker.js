@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1461984c3c5619293e51ff28b685c711.js"
+  "/precache-manifest.dfff1f8664e928f6a91e8085b1a20521.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "public-art"});
